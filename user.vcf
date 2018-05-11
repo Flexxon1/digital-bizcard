@@ -7,7 +7,7 @@ ORG:My Home Group, Real Estate
 TITLE:The Cre8tive Agent
 EMAIL;type=INTERNET;type=WORK;type=pref:thecre8tiveagent@gmail.com
 TEL;type=WORK;type=VOICE:480 789 3600
-item1.ADR;type=WORK;type=pref:;;8360 E.Raintree Drive Suite #205;;;Scottsdale,AZ 85260
+item1.ADR;type=WORK;type=pref:;;8360 E.Raintree Drive Suite #205;;;Scottsdale, AZ 85260
 item2.URL;type=pref:www.facebook.com/cre8tiveagent/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
