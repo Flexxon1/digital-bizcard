@@ -134,8 +134,8 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-color-blue {
-	background-color: #0071BC;
+.bg-color-grey {
+	background-color: #CCCCCC;
 }
 
 .bg-color-grey {
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #0071BC;
+	background-color: #B3B3B3;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
