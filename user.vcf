@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:DeSilva;David;;;
 FN: David  DeSilva 
-ORG:The Cre8tive Agent;
-TITLE:Realtor
+ORG:The Cre8tive Agent @ My Home Group;
+TITLE:Real Estate Agent
 EMAIL;type=INTERNET;type=WORK;type=pref:thecre8tiveagent@gmail.com
 TEL;type=WORK;type=VOICE:480 789 3600
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;8360 E Raintree Suite #205 Scottsdale, AZ 85260
 item1.X-ABADR:sg
 item2.URL;type=pref:thecre8tiveagent.com
 item2.X-ABLabel:_$!<HomePage>!$_
