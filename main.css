@@ -127,11 +127,11 @@ img.profile-pic {
 }
 
 .primary-info {
-	height: 20%;
+	height: 17%;
 }
 
 .secondary-info {
-	height: 13%;
+	height: 10%;
 }
 
 .bg-color-grey {
@@ -146,25 +146,25 @@ img.profile-pic {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #333333;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
     color: #333333;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #575757;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .bottom {
-	height: 28%;
+	height: 25%;
 }
 
 .button {
