@@ -27,8 +27,8 @@ img {
     margin-right: auto;
     max-height: 95%;
     max-width: 95%;
-    height: auto;
-    width: auto;
+    height: 45px;
+    width:45px;
     object-fit: contain;
 }
 
