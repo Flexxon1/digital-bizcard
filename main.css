@@ -177,7 +177,7 @@ img.profile-pic {
 	line-height: 30px;
 	font-family: 'Raleway', sans-serif;
 	color: white;
-	font-weight:200;
+	font-weight:50;
 }
 
 @media screen and (max-width: 600px) {
