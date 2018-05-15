@@ -33,7 +33,7 @@ img {
 }
 
 img.profile-pic {
-	object-fit: left center;
+	object-fit: left;
 	border-radius: 50%;
 }
 
