@@ -180,8 +180,8 @@ img.profile-pic {
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 60%;
-    width: 60%;
+    height: 80%;
+    width: 80%;
   }
 }
 
