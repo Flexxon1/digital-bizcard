@@ -33,8 +33,6 @@ img {
 }
 
 img.profile-pic {
-	height:30%;
-	width: 30%;
 	object-position: left;
 	border-radius: 50%;
 }
