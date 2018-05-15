@@ -33,9 +33,9 @@ img {
 }
 
 img.profile-pic {
-	height:10%;
-	width: 10%;
-	object-fit: cover;
+	height:30%;
+	width: 30%;
+	object-fit: left center;
 	border-radius: 50%;
 }
 
