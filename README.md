@@ -1,1 +1,1 @@
-# digital-bizcard
+# sbc - card
