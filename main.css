@@ -84,7 +84,7 @@ img {
 
 .col.is-5 {
 	flex: none;
-	width: 50%;
+	width: 75%;
 }
 
 .col.is-6 {
@@ -125,7 +125,7 @@ img {
 }
 
 .secondary-info {
-	height: 10%;
+	height: 25%;
 }
 
 .bg-color-dimgray {
