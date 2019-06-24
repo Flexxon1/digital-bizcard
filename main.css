@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-grey -gray {
-	background-color: #F2F2F2;
+	background-color: #4D4D4D;
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #FFFFFF;
 }
 
 .text-name {
@@ -164,7 +164,7 @@ img.profile-pic {
 }
 
 .bottom {
-	height: 23%;
+	height: 20%;
 }
 
 .button {
@@ -176,7 +176,7 @@ img.profile-pic {
 	vertical-align: middle;
 	line-height: 40px;
 	font-family: 'Muli', sans-serif;
-	color: white;
+	color: #FFFFFF;
 	font-weight: 400;
 }
 
