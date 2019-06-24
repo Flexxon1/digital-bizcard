@@ -30,7 +30,13 @@ img {
     height: auto;
     width: auto;
     object-fit: contain;
+}
 
+img.profile-pic {
+	height: 30%;
+	width: 30%;
+	object-fit: cover;
+	border-radius: 50%;
 }
 
 .container {
@@ -89,7 +95,7 @@ img {
 
 .col.is-6 {
 	flex: none;
-	width:60%;
+	width: 60%;
 }
 
 .col.is-7 {
@@ -99,7 +105,7 @@ img {
 
 .col.is-8 {
 	flex: none;
-	width:79%;
+	width: 80%;
 }
 
 .col.is-9 {
@@ -117,21 +123,73 @@ img {
 }
 
 .banner {
-	height:25%
+	height: 30%;
 }
 
 .primary-info {
-	height: 20%;
+	height: 15%;
 }
 
 .secondary-info {
-	height:10%;
+	height: 8%;
 }
 
-.bg-color-dimgray {
-	background-color: #4D4D4D;
+.bg-color-grey {
+	background-color: #F2F2F2;
 }
 
-.bg-color-gainsboro {
-	background-color: #FFFFFF;
+.bg-color-white {
+	background-color: white;
+}
+
+.text-name {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+}
+
+.text-title-company {
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+    color: #333333;
+    font-size: 12px;
+}
+
+.text-detail {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #575757;
+    font-size: 12px;
+}
+
+.bottom {
+	height: 23%;
+}
+
+.button {
+	background-color: #219653;
+	height: 48px;
+	padding-left: 24px
+	padding-right: 24px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 48px;
+	font-family: 'Muli', sans-serif;
+	color: white;
+	font-weight: 300;
+}
+
+@media screen and (max-width: 600px) {
+  img.profile-pic {
+    height: 60%;
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  img.profile-pic {
+    height: 80%;
+    width: 80%;
+  }
 }
