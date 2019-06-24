@@ -99,7 +99,7 @@ img {
 
 .col.is-8 {
 	flex: none;
-	width:79%;
+	width: 80%;
 }
 
 .col.is-9 {
@@ -125,7 +125,7 @@ img {
 }
 
 .secondary-info {
-	height:10%;
+	height: 9%;
 }
 
 .bg-color-dimgray {
@@ -152,7 +152,7 @@ img {
 
 .text-detail {
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
+    font-weight: 700;
     color: #000000;
     font-size: 16px;
 }
